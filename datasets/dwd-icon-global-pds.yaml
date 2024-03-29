@@ -6,16 +6,16 @@ Contact: opendata@dwd.de
 ManagedBy: "[Deutscher Wetterdienst](https://www.dwd.de)"
 UpdateFrequency: Every 6 hours
 Tags:
-    - aws-pds
-    - climate
-    - disaster response
-    - earth observation
-    - environmental
-    - machine learning
-    - meteorological
-    - model
-    - weather
-    - sustainability
+  - aws-pds
+  - climate
+  - disaster response
+  - earth observation
+  - environmental
+  - machine learning
+  - meteorological
+  - model
+  - weather
+  - sustainability
 License: https://www.dwd.de/EN/service/copyright/copyright_artikel.html
 Resources:
   - Description: model output in GRIB2 data format for commonly used parameters
